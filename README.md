@@ -1,17 +1,8 @@
-# Template
+# Hashmap in Javascript
 
-This repo serve as Ready-To-Work template for next projects with The Odin Project.
-This is a WIP.
+This repo serve as Hashmap Project in vanilla JS for The Odin Project.
+For this project, I mainly use Linked List in each bucket to prevent collisions.
+When load-factor is reached, hashmap in increased by 2 \* his length.
 
-Packages installed are :
-ESLint
-Prettier
-Prettier-ESLint-Config
-Webpack
-Webpack Dev Serv
-
-Need to be installed or setup :
-
-Asset management for Webpack
-
-Code-Actions ( plugin VSCode )
+I'm not sure if I've done the expected work on this project mainly because I've worked with Linked List, all of my functions in HashMap Class
+are related to Linked List functions.
